@@ -1,0 +1,7 @@
+My name is Jordan. I work as a data analyst at a tech startup.
+
+I specialize in Python, SQL, and data visualization using Matplotlib and Tableau.
+
+My career goal is to transition into machine learning engineering. I'm currently studying deep learning and natural language processing.
+
+Outside of work, I enjoy rock climbing, cooking Italian food, and playing chess competitively.

@@ -1,0 +1,12 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local vector database (may contain personal profiles)
+chroma_db/
+
+# OS files
+.DS_Store
+Thumbs.db
